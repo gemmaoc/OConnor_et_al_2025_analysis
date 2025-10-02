@@ -12,4 +12,6 @@ northerly wind trend in this region over the 20th century, suggesting that a his
 winds can explain the initiation of rapid ice-shelf melting in this region.
 
 More details on the modeling setup and results can be found in O'Connor et al., 2025. The output from the simulations
-and the proxy reconstructions are archived on Zenodo at https://zenodo.org/records/15243743.  
+and the proxy reconstructions are archived on Zenodo at https://zenodo.org/records/15243743. Visualizations of the
+proxy reconstructions can be found on a web app developed by my undergraduate research assistant Jordan Tucker at
+https://jortuck.github.io/PaleoclimateVisualizer/.
